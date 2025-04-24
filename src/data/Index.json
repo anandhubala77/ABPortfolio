@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Building responsive user interfaces using HTML, CSS, JavaScript, and modern frameworks."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Creating scalable APIs, handling server-side logic, and working with Node.js and Express."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI/UX Design",
+      "description": "Experienced in React and UI design principles to build clean, interactive components."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Database",
+      "description": "Designing and managing databases using MongoDB and SQL for efficient data handling."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "https://i.pinimg.com/474x/3d/c5/f0/3dc5f0f7950ba0347ab89b7f0222528e.jpg",
+      "title": "GSAP Website",
+      "description": "Enter the Metagame Layer – Unleash the Play Economy.",
+      "link": "https://majestic-wisp-a7c2d2.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_6ExW43KKEVy-IM-0uui_US7XXqlxnTH9BA&s",
+      "title": "Tip Calculator",
+      "description": "The Tip Calculator helps users quickly compute tips and split bills with a clean, user-friendly interface.",
+      "link": "https://anandhubala77.github.io/tip_calculator/"
+    },
+    {
+      "id": "3",
+      "src": "https://i.pinimg.com/236x/a1/61/cc/a161cc8cc5532d295965fea6d1bd5fc6.jpg", 
+      "title": "Image Base64 Project",
+      "description": "An image-based project embedded using base64 encoding for offline rendering.",
+      "link": "https://anandhubala77.github.io/Parallax_Nature_website/"
+    }
+  ]
+}

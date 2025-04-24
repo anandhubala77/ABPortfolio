@@ -1,0 +1,8 @@
+@import "tailwindcss";
+body {
+    font-family: 'Inconsolata', monospace;
+    background-color: #BBBDBC;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+  }
