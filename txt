@@ -1,0 +1,5 @@
+
+service id:service_742ncwh
+template id::template_yc9yfr5
+
+api key:ZrdSJwwKI-v75ANeG
