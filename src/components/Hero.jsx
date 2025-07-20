@@ -10,7 +10,8 @@ import heroimg from '../assets/imges/my.png'
           <img
             src={heroimg}
             alt="Your Photo"
-            className="w-100 h-100 object-cover rounded-full shadow-lg  "
+            className="w-100 h-100 object-cover  rounded-full shadow-lg  "
+            style={{ objectPosition: 'top' }}
             
           />
         </div>
